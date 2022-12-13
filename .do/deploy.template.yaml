@@ -1,8 +1,8 @@
 spec:
-  name: sample-html
+  name: pcm-web
   static_sites:
   - environment_slug: html
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/sample-html.git
+      repo_clone_url: https://github.com/computermouth/pcm-web.git
     name: sample-html
